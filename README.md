@@ -6,3 +6,6 @@ Este texto representa el commit para actualizar el repositorio
 Este texto es la modificación para Desktop
 
 otro cambio
+
+hola 
+este es una modificación desde visual
