@@ -10,4 +10,4 @@ otro cambio
 hola 
 este es una modificación desde visual
 
-este es otro cambio con source control
+este es otro cambio desde el plug control
